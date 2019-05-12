@@ -7,6 +7,7 @@ import com.google.gson.GsonBuilder;
 public class FirstBlockChain {
 
     public static ArrayList<Block> blockChain = new ArrayList<Block>();
+    public static int difficuty = 5;
 
     public static void main(String[] args) {
 
